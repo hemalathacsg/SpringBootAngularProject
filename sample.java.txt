@@ -1,5 +1,0 @@
-public class Sample{
-	public static void main{
-		System.out.println("hello this is the sample test case in github");
-	}
-}
